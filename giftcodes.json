@@ -1,0 +1,32 @@
+[
+{
+    "code": "vip666", 
+    "expiry_date": "2025-12-30", 
+    "status": "active"
+},
+{
+    "code": "vip777", 
+    "expiry_date": "2025-12-30", 
+    "status": "active"
+},
+{
+    "code": "vip888", 
+    "expiry_date": "2025-12-30", 
+    "status": "active"
+},
+{
+    "code": "lucky2024", 
+    "expiry_date": "2025-12-30", 
+    "status": "active"
+},
+{
+    "code": "Thanksgiving2024", 
+    "expiry_date": "2024-12-03", 
+    "status": "active"},
+{
+    "code": "WELCOME2ARCHERO", 
+    "expiry_date": "never", 
+    "status": "active"
+}
+
+]
